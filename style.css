@@ -43,3 +43,17 @@ ul.nav .active {
 h1 {
   width: 100%;
 }
+
+
+ 
+     h1 {
+        font-family: "Rubik Wet Paint", system-ui;
+      }
+
+      p {
+        color: white;
+      }
+      h5 {
+        font-family: "Playfair Display", serif;
+  
+      }
