@@ -33,13 +33,27 @@ ul.nav li a {
 }
 
 ul.nav li a:hover:not(.active) {
-  background-color: yellow;
+  background-color: darkred;
 }
 
 ul.nav .active {
-  background-color: red;
+  background-color: darkred;
 }
 
 h1 {
   width: 100%;
 }
+
+
+ 
+     h1 {
+        font-family: "Rubik Wet Paint", system-ui;
+      }
+
+      p {
+        color: white;
+      }
+      h5 {
+        font-family: "Playfair Display", serif;
+  
+      }
